@@ -1,1 +1,1 @@
-🌱 I’m currently learning Python
+Using Python to make life easier
