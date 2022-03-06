@@ -1,1 +1,1 @@
-Using Python to make life easier
+Make life easier through Python
